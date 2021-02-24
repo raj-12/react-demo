@@ -1,0 +1,33 @@
+.h{
+  background-color: rgb(128, 240, 128);
+  width: 200px;
+  border-width: 5px;
+  border-radius: 20px;
+}
+p{
+  color: crimson;
+}
+
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .flex > div {
+    margin: 0 1rem 2rem 1rem;
+    text-align: center;
+  }
+  
+  img {
+    display: inline-block;
+    max-width: 100%;
+  }
+  
