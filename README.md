@@ -7,7 +7,7 @@ Technologies used : Reactjs,Material-ui
 
 API used : https://restcountries.eu/
 
-During task I added following featuries : 
+During task I added following features : 
 
 ### Search Button
 Search specific country in serach box and you will see all the information related to that country.
