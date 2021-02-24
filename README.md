@@ -1,4 +1,12 @@
-### ____*Funtionalities in task____
+
+
+
+### ____Task performed____
+
+Technologies used : Reactjs,Material-ui
+API used : https://restcountries.eu/
+
+During task I added following featuries : 
 
 ### Search Button
 Search specific country in serach box and you will see all the information related to that country.
