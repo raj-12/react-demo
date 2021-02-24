@@ -33,3 +33,13 @@ This bar chart, line chart, pie chart visualize the data of countries whemever w
 ![1 (3)](https://user-images.githubusercontent.com/57909006/109046280-9219d480-76fa-11eb-8e36-ef4a267da460.png)
 
 
+
+### How to run
+
+Use following command while running application
+
+# npm install
+
+# npm start
+
+
