@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-![alt text](https://github.com/raj-12/react-demo/main/1(1).png?raw=true)
+![alt text](https://github.com/raj-12/react-demo/main/images/1(1).png?raw=true)
 
 ### `npm start`
 
