@@ -1,7 +1,7 @@
 
 
 
-### ____Task performed____
+# ____Task performed____
 
 Technologies used : Reactjs,Material-ui
 
@@ -38,8 +38,8 @@ This bar chart, line chart, pie chart visualize the data of countries whemever w
 
 Use following command while running application
 
-# npm install
+#### npm install
 
-# npm start
+#### npm start
 
 
